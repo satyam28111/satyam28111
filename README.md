@@ -1,6 +1,13 @@
-# 💫 About Me:
-# 👋 Hi, I'm Satyam Jaiswal<br><br>## 👨‍💻 QA Automation Engineer | 4+ Years Experience<br><br>Quality Assurance Engineer with 4+ years of experience in testing and automating scalable mobile and web applications. I specialize in building reliable automation frameworks and improving software release quality in Agile environments.<br><br>---<br><br>### 🚀 Technical Expertise<br><br>🔹  Manual Testing & Automation Testing<br>🔹 UI Automation – Playwright, Selenium, Appium  <br>🔹 API Validation & Backend Debugging  <br>🔹 Data Validation & Regression Strategy  <br>🔹 CI/CD Integration & Automation Framework Design  <br><br>---<br><br>### 📈 What I Bring to the Team<br><br>✔ Improved release stability through strong test strategies  <br>✔ Reduced regression cycle time with effective automation  <br>✔ Collaborated closely with Engineering, Product & UX teams  <br>✔ Delivered high-quality, production-ready software  <br><br>---<br><br>### 🔬 Currently Focused On<br><br>🚀 Building scalable Playwright Automation Framework  <br>🔎 Exploring API Automation & CI/CD integrations  <br>📚 Continuously learning and enhancing automation architecture skills  <br><br>---<br><br>### 📫 Connect With Me<br><br>💼 Open to QA Automation / SDET Opportunities  <br>🔗 LinkedIn: https://www.linkedin.com/in/satyam-jaiswal-5bb69b209/
+## 👋 Hi, I'm Satyam Jaiswal
+🚀 Quality Assurance Engineer | 4+ Years Experience  
 
+I specialize in testing and automating scalable mobile and web applications.
+✔ UI Automation – Playwright & Appium  
+✔ API Validation & Backend Debugging  
+✔ Data Validation & Regression Optimization  
+✔ Agile Test Planning & Cross-Team Collaboration  
+
+💡 Always exploring better automation strategies and framework design.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyam-jaiswal-5bb69b209/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamjaiswal8828@gmail.com) 
